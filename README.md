@@ -5,4 +5,4 @@ With Vsync
 `prime-gpu <app/program>`
 
 Without Vsync 
-`prime-gpu-no-Vsync <app/program>`
+`prime-gpu-no-vsync <app/program>`
